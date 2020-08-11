@@ -1,0 +1,26 @@
+﻿  Source.cpp
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(70,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(120,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(133,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(135,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(153,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(169,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(186,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(222,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(237,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(239,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(259,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(273,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(286,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(288,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(306,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(308,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(310,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(324,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(326,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(367,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(381,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(418,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(424,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\dreve\source\repos\Graphs\Graphs\Source.cpp(429,23): warning C4018:  '<': signed/unsigned mismatch
+  Graphs.vcxproj -> C:\Users\dreve\source\repos\Graphs\Debug\Graphs.exe

@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\dreve\source\repos\827d\827d\source.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\dreve\source\repos\827d\827d\source.cpp(153): error C2065: 'e': undeclared identifier
+c:\users\dreve\source\repos\827d\827d\source.cpp(153): error C2660: 'lca': function does not take 2 arguments
+  c:\users\dreve\source\repos\827d\827d\source.cpp(76): note: see declaration of 'lca'
+c:\users\dreve\source\repos\827d\827d\source.cpp(154): error C2065: 'e': undeclared identifier
+c:\users\dreve\source\repos\827d\827d\source.cpp(155): error C2065: 'e': undeclared identifier
+c:\users\dreve\source\repos\827d\827d\source.cpp(155): error C2660: 'modify': function does not take 2 arguments
+  c:\users\dreve\source\repos\827d\827d\source.cpp(123): note: see declaration of 'modify'
+c:\users\dreve\source\repos\827d\827d\source.cpp(156): error C2065: 'e': undeclared identifier
+c:\users\dreve\source\repos\827d\827d\source.cpp(156): error C2660: 'modify': function does not take 2 arguments
+  c:\users\dreve\source\repos\827d\827d\source.cpp(123): note: see declaration of 'modify'
