@@ -1,9 +1,0 @@
-﻿  Source.cpp
-d:\c++ projects\чисметы\стрельба\стрельба\source.cpp(85): warning C4018: '<': signed/unsigned mismatch
-d:\c++ projects\чисметы\стрельба\стрельба\source.cpp(93): warning C4018: '<': signed/unsigned mismatch
-d:\c++ projects\чисметы\стрельба\стрельба\source.cpp(101): warning C4018: '<': signed/unsigned mismatch
-d:\c++ projects\чисметы\стрельба\стрельба\source.cpp(242): warning C4018: '<': signed/unsigned mismatch
-d:\c++ projects\чисметы\стрельба\стрельба\source.cpp(23): warning C4715: 'f': not all control paths return a value
-d:\c++ projects\чисметы\стрельба\стрельба\source.cpp(34): warning C4715: 'p': not all control paths return a value
-d:\c++ projects\чисметы\стрельба\стрельба\source.cpp(45): warning C4715: 'q': not all control paths return a value
-  стрельба.vcxproj -> D:\C++ projects\Чисметы\стрельба\Debug\стрельба.exe

@@ -1,6 +1,0 @@
-﻿  Source.cpp
-C:\Users\dreve\source\repos\SNAA\SNAA\Source.cpp(46): warning C4715: 'function_2': not all control paths return a value
-C:\Users\dreve\source\repos\SNAA\SNAA\Source.cpp(27): warning C4715: 'function_2_f': not all control paths return a value
-C:\Users\dreve\source\repos\SNAA\SNAA\Source.cpp(37): warning C4715: 'function_1': not all control paths return a value
-C:\Users\dreve\source\repos\SNAA\SNAA\Source.cpp(17): warning C4715: 'function_1_f': not all control paths return a value
-  SNAA.vcxproj -> C:\Users\dreve\source\repos\SNAA\Debug\SNAA.exe
