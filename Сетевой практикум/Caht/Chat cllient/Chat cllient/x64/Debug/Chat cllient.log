@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\c++ projects\networks\caht\chat cllient\chat cllient\source.cpp(77): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Chat cllient.vcxproj -> D:\C++ projects\Networks\Caht\Chat cllient\x64\Debug\Chat cllient.exe

@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\c++ projects\networks\udp\clientudp\clientudp\source.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\c++ projects\networks\udp\clientudp\clientudp\source.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\c++ projects\networks\udp\clientudp\clientudp\source.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\c++ projects\networks\udp\clientudp\clientudp\source.cpp(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\c++ projects\networks\udp\clientudp\clientudp\source.cpp(11): warning C4083: expected 'newline'; found identifier '​'
+  ClientUDP.vcxproj -> D:\C++ projects\Networks\UDP\ClientUDP\Debug\ClientUDP.exe

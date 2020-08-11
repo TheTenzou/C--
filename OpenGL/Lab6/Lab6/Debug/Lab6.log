@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\dreve\source\repos\lab6\lab6\source.cpp(146): warning C4101: 'y2': unreferenced local variable
+c:\users\dreve\source\repos\lab6\lab6\source.cpp(146): warning C4101: 'y1': unreferenced local variable
+c:\users\dreve\source\repos\lab6\lab6\source.cpp(146): warning C4101: 'x1': unreferenced local variable
+c:\users\dreve\source\repos\lab6\lab6\source.cpp(147): warning C4101: 'b': unreferenced local variable
+c:\users\dreve\source\repos\lab6\lab6\source.cpp(145): warning C4101: 'i': unreferenced local variable
+c:\users\dreve\source\repos\lab6\lab6\source.cpp(147): warning C4101: 'g': unreferenced local variable
+c:\users\dreve\source\repos\lab6\lab6\source.cpp(147): warning C4101: 'r': unreferenced local variable
+c:\users\dreve\source\repos\lab6\lab6\source.cpp(146): warning C4101: 'x2': unreferenced local variable
+  Lab6.vcxproj -> C:\Users\dreve\source\repos\Lab6\Debug\Lab6.exe

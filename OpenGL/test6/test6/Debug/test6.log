@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\dreve\source\repos\test6\test6\source.cpp(29): warning C4101: 'i': unreferenced local variable
+  test6.vcxproj -> C:\Users\dreve\source\repos\test6\Debug\test6.exe
