@@ -1,0 +1,46 @@
+﻿  Source.cpp
+d:\c++ projects\курсач\курсач\source.cpp(26): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(31): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(41): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(49): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(62): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(68): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(73): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(83): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(91): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(111): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(112): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(122): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(123): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(133): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(135): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(147): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(148): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(173): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(175): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(196): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(222): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(230): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(231): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(241): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(242): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(254): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(255): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(268): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\c++ projects\курсач\курсач\source.cpp(276): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(284): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\c++ projects\курсач\курсач\source.cpp(296): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\c++ projects\курсач\курсач\source.cpp(308): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(318): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(328): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(337): warning C4018: '>': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(347): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(370): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(382): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(392): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\c++ projects\курсач\курсач\source.cpp(397): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(411): warning C4018: '>': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(446): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(482): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\курсач\курсач\source.cpp(483): warning C4018: '<': signed/unsigned mismatch
+  Курсач.vcxproj -> D:\C++ projects\Курсач\Debug\Курсач.exe
