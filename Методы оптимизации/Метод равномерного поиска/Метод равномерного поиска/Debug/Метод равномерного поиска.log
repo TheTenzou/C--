@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\c++ projects\метод равномерного поиска\метод равномерного поиска\source.cpp(26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\c++ projects\метод равномерного поиска\метод равномерного поиска\source.cpp(39): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\метод равномерного поиска\метод равномерного поиска\source.cpp(44): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\метод равномерного поиска\метод равномерного поиска\source.cpp(51): warning C4018: '<': signed/unsigned mismatch
+  Метод равномерного поиска.vcxproj -> D:\C++ projects\Метод равномерного поиска\Debug\Метод равномерного поиска.exe

@@ -1,0 +1,11 @@
+﻿  Source.cpp
+d:\c++ projects\методы оптимизации\метод наискорейшего спуска\метод наискорейшего спуска\source.cpp(17): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\методы оптимизации\метод наискорейшего спуска\метод наискорейшего спуска\source.cpp(28): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\методы оптимизации\метод наискорейшего спуска\метод наискорейшего спуска\source.cpp(40): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\методы оптимизации\метод наискорейшего спуска\метод наискорейшего спуска\source.cpp(50): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\методы оптимизации\метод наискорейшего спуска\метод наискорейшего спуска\source.cpp(87): warning C4551: function call missing argument list
+d:\c++ projects\методы оптимизации\метод наискорейшего спуска\метод наискорейшего спуска\source.cpp(199): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\методы оптимизации\метод наискорейшего спуска\метод наискорейшего спуска\source.cpp(215): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\методы оптимизации\метод наискорейшего спуска\метод наискорейшего спуска\source.cpp(249): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\методы оптимизации\метод наискорейшего спуска\метод наискорейшего спуска\source.cpp(261): warning C4018: '<': signed/unsigned mismatch
+  Метод наискорейшего спуска.vcxproj -> D:\C++ projects\Методы оптимизации\Метод наискорейшего спуска\Debug\Метод наискорейшего спуска.exe

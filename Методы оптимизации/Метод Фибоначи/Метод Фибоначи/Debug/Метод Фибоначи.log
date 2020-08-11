@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Tenzou\source\repos\Метод Фибоначи\Метод Фибоначи\Source.cpp(30,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Метод Фибоначи.vcxproj -> C:\Users\Tenzou\source\repos\Метод Фибоначи\Debug\Метод Фибоначи.exe

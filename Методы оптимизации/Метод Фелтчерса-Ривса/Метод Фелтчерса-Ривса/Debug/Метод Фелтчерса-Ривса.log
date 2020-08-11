@@ -1,0 +1,15 @@
+﻿  Source.cpp
+d:\c++ projects\методы оптимизации\метод фелтчерса-ривса\метод фелтчерса-ривса\source.cpp(19): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\методы оптимизации\метод фелтчерса-ривса\метод фелтчерса-ривса\source.cpp(30): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\методы оптимизации\метод фелтчерса-ривса\метод фелтчерса-ривса\source.cpp(42): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\методы оптимизации\метод фелтчерса-ривса\метод фелтчерса-ривса\source.cpp(51): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\методы оптимизации\метод фелтчерса-ривса\метод фелтчерса-ривса\source.cpp(61): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\методы оптимизации\метод фелтчерса-ривса\метод фелтчерса-ривса\source.cpp(98): warning C4551: function call missing argument list
+d:\c++ projects\методы оптимизации\метод фелтчерса-ривса\метод фелтчерса-ривса\source.cpp(210): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\методы оптимизации\метод фелтчерса-ривса\метод фелтчерса-ривса\source.cpp(232): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\методы оптимизации\метод фелтчерса-ривса\метод фелтчерса-ривса\source.cpp(242): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\методы оптимизации\метод фелтчерса-ривса\метод фелтчерса-ривса\source.cpp(269): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\методы оптимизации\метод фелтчерса-ривса\метод фелтчерса-ривса\source.cpp(284): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\методы оптимизации\метод фелтчерса-ривса\метод фелтчерса-ривса\source.cpp(296): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\методы оптимизации\метод фелтчерса-ривса\метод фелтчерса-ривса\source.cpp(309): warning C4018: '<': signed/unsigned mismatch
+  Метод Фелтчерса-Ривса.vcxproj -> D:\C++ projects\Методы оптимизации\Метод Фелтчерса-Ривса\Debug\Метод Фелтчерса-Ривса.exe

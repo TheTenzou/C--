@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\dreve\source\repos\метод нискорейшего спуска\метод нискорейшего спуска\source.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\dreve\source\repos\метод нискорейшего спуска\метод нискорейшего спуска\source.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\dreve\source\repos\метод нискорейшего спуска\метод нискорейшего спуска\source.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\dreve\source\repos\метод нискорейшего спуска\метод нискорейшего спуска\source.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\dreve\source\repos\метод нискорейшего спуска\метод нискорейшего спуска\source.cpp(87): warning C4551: function call missing argument list
+c:\users\dreve\source\repos\метод нискорейшего спуска\метод нискорейшего спуска\source.cpp(197): warning C4018: '<': signed/unsigned mismatch
+c:\users\dreve\source\repos\метод нискорейшего спуска\метод нискорейшего спуска\source.cpp(213): warning C4018: '<': signed/unsigned mismatch
+c:\users\dreve\source\repos\метод нискорейшего спуска\метод нискорейшего спуска\source.cpp(247): warning C4018: '<': signed/unsigned mismatch
+c:\users\dreve\source\repos\метод нискорейшего спуска\метод нискорейшего спуска\source.cpp(259): warning C4018: '<': signed/unsigned mismatch
+  Метод нискорейшего спуска.vcxproj -> C:\Users\dreve\source\repos\Метод нискорейшего спуска\Debug\Метод нискорейшего спуска.exe
