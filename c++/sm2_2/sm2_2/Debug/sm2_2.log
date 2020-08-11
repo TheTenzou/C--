@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  sm2_2.cpp
+c:\users\dreve\source\repos\sm2_2\sm2_2\sm2_2.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sm2_2.vcxproj -> C:\Users\dreve\source\repos\sm2_2\Debug\sm2_2.exe
