@@ -1,0 +1,3 @@
+﻿  Lab 2.0.cpp
+c:\users\dreve\source\repos\lab 2.0\lab 2.0\lab 2.0.cpp(268): error C2664: 'LRESULT SendMessageA(HWND,UINT,WPARAM,LPARAM)': cannot convert argument 4 from 'CHAR [6]' to 'LPARAM'
+  c:\users\dreve\source\repos\lab 2.0\lab 2.0\lab 2.0.cpp(268): note: There is no context in which this conversion is possible

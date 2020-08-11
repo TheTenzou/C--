@@ -1,0 +1,3 @@
+﻿  Asm.cpp
+c:\users\dreve\source\repos\asm\asm\asm.cpp(29): warning C4172: returning address of local variable or temporary: ch
+  Asm.vcxproj -> C:\Users\dreve\source\repos\Asm\Debug\Asm.exe

@@ -1,0 +1,10 @@
+﻿  MDI3.cpp
+c:\users\dreve\source\repos\mdi3\mdi3\mdi3.cpp(165): warning C4101: 'cls': unreferenced local variable
+c:\users\dreve\source\repos\mdi3\mdi3\mdi3.cpp(168): warning C4101: 'rect': unreferenced local variable
+c:\users\dreve\source\repos\mdi3\mdi3\mdi3.cpp(345): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dreve\source\repos\mdi3\mdi3\mdi3.cpp(349): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dreve\source\repos\mdi3\mdi3\mdi3.cpp(391): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dreve\source\repos\mdi3\mdi3\mdi3.cpp(392): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dreve\source\repos\mdi3\mdi3\mdi3.cpp(318): warning C4101: 'result': unreferenced local variable
+c:\users\dreve\source\repos\mdi3\mdi3\mdi3.cpp(370): warning C4101: 'rect1': unreferenced local variable
+  MDI3.vcxproj -> C:\Users\dreve\source\repos\MDI3\Debug\MDI3.exe

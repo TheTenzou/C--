@@ -1,0 +1,7 @@
+﻿  Files.cpp
+c:\users\dreve\source\repos\files\files\files.cpp(325): error C2360: initialization of 'wmId' is skipped by 'case' label
+  c:\users\dreve\source\repos\files\files\files.cpp(178): note: see declaration of 'wmId'
+c:\users\dreve\source\repos\files\files\files.cpp(336): error C2360: initialization of 'wmId' is skipped by 'case' label
+  c:\users\dreve\source\repos\files\files\files.cpp(178): note: see declaration of 'wmId'
+c:\users\dreve\source\repos\files\files\files.cpp(339): error C2361: initialization of 'wmId' is skipped by 'default' label
+  c:\users\dreve\source\repos\files\files\files.cpp(178): note: see declaration of 'wmId'
