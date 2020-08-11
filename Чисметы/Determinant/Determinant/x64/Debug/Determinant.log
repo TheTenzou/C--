@@ -1,0 +1,3 @@
+﻿  Determinant.cpp
+c:\users\dreve\source\repos\determinant\determinant\determinant.cpp(15): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Determinant.vcxproj -> C:\Users\dreve\source\repos\Determinant\x64\Debug\Determinant.exe
